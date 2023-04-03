@@ -1,1 +1,1 @@
-# 2022_DeNovoAssembly-MockComm
+# 2022_DeNovoAssembly-Real Samples
